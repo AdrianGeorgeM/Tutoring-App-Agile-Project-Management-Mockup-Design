@@ -13,7 +13,7 @@ Learn@Home is a digital platform with a mission to connect students who require 
 
 5. **📝 Task Management**: A tool for users to create tasks for themselves or for other users.
 
-For a more detailed breakdown of features and user interactions, visit the project's GitHub repository [here](https://github.com/AdrianGeorgeM/Define-User-Needs-for-a-Tutoring-App).
+For a more detailed breakdown of features and user interactions, visit the project's GitHub repository [here](https://github.com/AdrianGeorgeM/Define-User-Needs-for-a-Tutoring-App-master).
 
 ## 📋 Project Management
 The development process follows agile methodologies. We utilize a Kanban board to categorize the project into blocks of functionalities and sub-functionalities, moving them from "To Do", to "In Progress", to "Testing", and finally to "Done". Check out our Notion Kanban board [here](https://rumbling-menu-5e4.notion.site/Dev4U-Learn-Home-Project-8c5486e0843744f792cda37af0962d8f).
